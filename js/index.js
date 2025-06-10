@@ -63,3 +63,4 @@ function callApi(cityWeather) {
         document.getElementById('weatherInfo').appendChild(list);
     })
 }
+ 
